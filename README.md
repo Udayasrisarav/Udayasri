@@ -69,4 +69,4 @@ Google (Python) • Microsoft (Data Viz) • Meta (Front‑End) • IBM (Data Sc
 
 ---
 
-Built with love by Udayasri G S
+Creating meaningful tech, learning every day, and inspiring others through shared growth.
