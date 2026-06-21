@@ -21,14 +21,16 @@ Google (Python) | Microsoft (Data Viz) | Meta (Front‑End) | IBM (Data Science)
 [LinkedIn](https://linkedin.com/in/yourprofile) 
 [GitHub](https://github.com/Udayasrisarav) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayasrisarav&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasrisarav&layout=compact&theme=radical)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udayasrisarav&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Udayasrisarav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasrisarav&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udayasrisarav&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasrisarav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
 </p>
