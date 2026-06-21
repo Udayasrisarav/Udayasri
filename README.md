@@ -20,3 +20,6 @@ Google (Python) | Microsoft (Data Viz) | Meta (Front‑End) | IBM (Data Science)
 ## 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/yourprofile) 
 [GitHub](https://github.com/Udayasrisarav) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayasrisarav&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasrisarav&layout=compact&theme=radical)
