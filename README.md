@@ -2,8 +2,10 @@
 
 <h2 align="center">ResumeXpert — AI Resume Analyzer</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Udayasrisarav/resume-xpert/main/resumeXpert.jpg" 
-       alt="ResumXpert Dashboard Preview" width="80%" />
+  <a href="https://resume-xpert-analyzer.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Udayasrisarav/resume-xpert/main/resumeXpert.jpg" 
+         alt="ResumXpert Dashboard Preview" width="80%" />
+  </a>
 </p>
 
 <p align="center">
