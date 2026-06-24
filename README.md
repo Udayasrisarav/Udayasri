@@ -1,16 +1,5 @@
 <!-- Udayasri's GitHub Profile README -->
 
-<h1 align="center">Holaa, I'm Udayasri Saravanan</h1>
-<h3 align="center">Computer Science Engineering Student | Web Developer | Data Science Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udayasrisarav&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Udayasrisarav" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:udayasrisarav@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/udayasrisarav05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
-
 <h2 align="center">ResumeXpert — AI Resume Analyzer</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Udayasrisarav/resume-xpert/main/resumeXpert.jpg" 
@@ -26,6 +15,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Udayasrisarav&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Udayasrisarav" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:udayasrisarav@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/udayasrisarav05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ---
 
 ## About Me
@@ -33,7 +29,7 @@ I’m a Computer Science Engineering undergraduate passionate about Web Developm
 I love creating tools that combine design, logic, and real‑world impact.
 
 - Currently learning React.js, Cloud APIs, and AI integrations  
-- Working on ResumXpert — AI Resume Analyzer  
+- Passionately building projects  
 - Skilled in Canva design and event report formatting  
 - Active member of Rotaract Club  
 - Languages: English, Tamil, Hindi  
