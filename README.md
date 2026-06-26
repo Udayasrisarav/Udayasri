@@ -9,15 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://resume-xpert-8qyy-odppwqw2u-udayasri.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/Udayasrisarav/resume-xpert">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Udayasrisarav&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/Udayasrisarav" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:udayasrisarav@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
